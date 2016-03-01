@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?> --->codigo obligado
+<channels>
+<channels_info>
+<title>24/7</title>
+<thumbnail>caratula de la lista</thumbnail>
+<fanart>fondo de la lista</fanart>
+</channels_info>
+<channel>
+<name>Series</name>
+<thumbnail>http://vignette4.wikia.nocookie.net/es.gta/images/3/3d/7_LOGO.png/revision/latest?cb=20130508011554</thumbnail>
+<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRncYvd3i1w5zgt9n5Lgqtch-8pgsShdk7uLxH62eyjUYa1duTx</fanart>
+<items>
+<item>
+<title>La Que Se Vecina</title>
+<link>http://original.livestream.com/lakseavecina</link>
+<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTg1Hx3cbe1xogfSnEAad0_fdQShKrl8OsYU5sjufGYKy02V1DEpQ</thumbnail>
+<info>descripcion del canal</info>
+<fanart>http://sourcefed.com/wp-content/uploads/2015/02/Interstellar-team-and-black-hole.jpg</fanart>
+</item>
+</items>
+<channel>
+<channels>

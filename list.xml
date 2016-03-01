@@ -2,6 +2,16 @@
 
 
     <channels>
+    	<deport_info>
+      <title>BYMOSSY</title>
+      <genre>Deportes</genre>
+      <description>Deportes</description>
+      <thumbnail>https://www.imageshost.eu/images/2015/07/07/M.jpg</thumbnail>
+      <fanart>http://wallpaperswa.com/thumbnails/detail/20120917/music%20other%20desktopnexus%20com%201600x900%20wallpaper_wallpaperswa.com_31.jpg</fanart>
+      <date>2016</date>
+      <credits>BYMOSSY</credits>
+    </deport_info>
+    	
     <channels_info>
       <title>BYMOSSY</title>
       <genre>GENERO</genre>

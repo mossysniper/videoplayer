@@ -2,16 +2,6 @@
 
 
     <channels>
-    	<deport_info>
-      <title>BYMOSSY</title>
-      <genre>Deportes</genre>
-      <description>Deportes</description>
-      <thumbnail>https://www.imageshost.eu/images/2015/07/07/M.jpg</thumbnail>
-      <fanart>http://wallpaperswa.com/thumbnails/detail/20120917/music%20other%20desktopnexus%20com%201600x900%20wallpaper_wallpaperswa.com_31.jpg</fanart>
-      <date>2016</date>
-      <credits>BYMOSSY</credits>
-    </deport_info>
-    	
     <channels_info>
       <title>BYMOSSY</title>
       <genre>GENERO</genre>
@@ -27,8 +17,9 @@
     <info>Movistar +</info>
     <thumbnail>https://www.imageshost.eu/images/2015/07/07/M.jpg</thumbnail>
     <fanart>http://www.movistar.com.pe/documents/10182/34725/Bg+plan+Vuela/7a03ac1d-3d10-4c1c-adf8-ef183794b921?t=1422486897512</fanart>
+    </channel>
     
-    <deport>
+    <channel_deport>
      <name>[COLOR lime]Deportes[/COLOR]</name>
      <info>Deportes</info>
      <thumbnail>https://www.imageshost.eu/images/2015/07/07/M.jpg</thumbnail>
@@ -39,39 +30,6 @@
 	<link>http://iptv-supplier.com:8000/live/elm/elm/386.ts</link>
     <thumbnail>http://srv00.epimg.net/programacion-tv/iconos/canales/cpliga.pngZ</thumbnail>
     </item>
-     </deport>
     
-    <item>
-     <name>[COLOR lime]Musica[/COLOR]</name>
-     <info>Musica</info>
-     <thumbnail>https://www.imageshost.eu/images/2015/07/07/M.jpg</thumbnail>
-     <fanart>http://www.movistar.com.pe/documents/10182/34725/Bg+plan+Vuela/7a03ac1d-3d10-4c1c-adf8-ef183794b921?t=1422486897512</fanart>
-     </item>
-
-    <item>
-	<title>[COLOR red]--- Vevo HD  ---[/COLOR]</title>
-	<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8</link>
-    <thumbnail>http://www.mytvbag.com/app/webroot/icons/channels/vevo-tv-logo-new.png</thumbnail>
-    </item>
-    
-    <item>
-	<title>[COLOR red]--- 40 Principales  ---[/COLOR]</title>
-	<link>http://13873.live.streamtheworld.com:443/LOS40AAC?csegid=2000&tdsdk=js-2.6&pname=TdPlayerApi&pversion=2.6&banners=300x250%2C728x90%2Cswf%2Cvpaid&streamtheworld_user=1</link>
-    <thumbnail>http://orig12.deviantart.net/f2e3/f/2007/295/b/3/shin_chan_by_kurenaiairen.jpg</thumbnail>
-    </item>
-    
-    <item>
-	<title>[COLOR red]--- Tumba La Casa  ---[/COLOR]</title>
-	<link>plugin://plugin.video.youtube/play/?video_id=8nyc2csgqEI</link>
-    <thumbnail>http://reggaeton.com/web/wp-content/uploads/2015/06/alexio-la-bestia-ft-farruko-arca.jpg</thumbnail>
-    </item>
-    
-    <item>
-	<title>[COLOR red]--- Hasta El Amanecer  ---[/COLOR]</title>
-	<link>plugin://plugin.video.youtube/play/?video_id=kkx-7fsiWgg</link>
-    <thumbnail>http://musica.fit/wp-content/uploads/2016/01/Hasta-el-amanecer-Nicky-Jam-1.jpg</thumbnail>
-    </item>
-
-	</channel>
-
+        </chanel_deport>
 	</channels>

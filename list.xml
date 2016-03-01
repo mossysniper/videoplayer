@@ -1,22 +1,29 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?> --->codigo obligado
-<channels>
-<channels_info>
-<title>24/7</title>
-<thumbnail>caratula de la lista</thumbnail>
-<fanart>fondo de la lista</fanart>
-</channels_info>
-<channel>
-<name>Series</name>
-<thumbnail>http://vignette4.wikia.nocookie.net/es.gta/images/3/3d/7_LOGO.png/revision/latest?cb=20130508011554</thumbnail>
-<fanart>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRncYvd3i1w5zgt9n5Lgqtch-8pgsShdk7uLxH62eyjUYa1duTx</fanart>
-<items>
-<item>
-<title>La Que Se Vecina</title>
-<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8</link>
-<thumbnail>https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTg1Hx3cbe1xogfSnEAad0_fdQShKrl8OsYU5sjufGYKy02V1DEpQ</thumbnail>
-<info>descripcion del canal</info>
-<fanart>http://sourcefed.com/wp-content/uploads/2015/02/Interstellar-team-and-black-hole.jpg</fanart>
-</item>
-</items>
-<channel>
-<channels>
+ <?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+
+    <channels>
+    <channels_info>
+      <title>BYMOSSY</title>
+      <genre>GENERO</genre>
+      <description>DESCRIPCION</description>
+      <thumbnail>http://www.mytvbag.com/app/webroot/icons/channels/vevo-tv-logo-new.png</thumbnail>
+      <fanart>http://wallpaperswa.com/thumbnails/detail/20120917/music%20other%20desktopnexus%20com%201600x900%20wallpaper_wallpaperswa.com_31.jpg</fanart>
+      <date>2016</date>
+      <credits>mossy</credits>
+    </channels_info>
+	 
+    <channel>
+    <name>Music</name>
+    <info>Music</info>
+    <thumbnail>https://cdn1.iconfinder.com/data/icons/appicns/513/appicns_iTunes.png</thumbnail>
+    <fanart>http://wallpaperswa.com/thumbnails/detail/20120917/music%20other%20desktopnexus%20com%201600x900%20wallpaper_wallpaperswa.com_31.jpg</fanart>
+
+    <item>
+	<title>Vevo HD</title>
+	<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8</link>
+    <thumbnail>http://www.mytvbag.com/app/webroot/icons/channels/vevo-tv-logo-new.png</thumbnail>
+    </item>
+
+	</channel>
+
+	</channels>

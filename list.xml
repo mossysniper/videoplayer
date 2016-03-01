@@ -23,6 +23,12 @@
 	<link>http://vevoplaylist-live.hls.adaptive.level3.net/vevo/ch2/05/prog_index.m3u8</link>
     <thumbnail>http://www.mytvbag.com/app/webroot/icons/channels/vevo-tv-logo-new.png</thumbnail>
     </item>
+    
+    <item>
+	<title>[COLOR red]--- Sinchan 24/7  ---[/COLOR]</title>
+	<link>http://cdn.livestream.com/embed/shinchan24horas?layout=4&height=340&width=560&autoplay=true</link>
+    <thumbnail>http://orig12.deviantart.net/f2e3/f/2007/295/b/3/shin_chan_by_kurenaiairen.jpg</thumbnail>
+    </item>
 
 	</channel>
 

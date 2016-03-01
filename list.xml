@@ -32,8 +32,8 @@
     
     <item>
 	<title>[COLOR red]--- Tumba La Casa  ---[/COLOR]</title>
-	<link>https://www.youtube.com/watch?v=8nyc2csgqEI</link>
-    <thumbnail>http://orig12.deviantart.net/f2e3/f/2007/295/b/3/shin_chan_by_kurenaiairen.jpg</thumbnail>
+	<link>plugin://plugin.video.youtube/play/?video_id=8nyc2csgqEI</link>
+    <thumbnail>http://reggaeton.com/web/wp-content/uploads/2015/06/alexio-la-bestia-ft-farruko-arca.jpg</thumbnail>
     </item>
 
 	</channel>

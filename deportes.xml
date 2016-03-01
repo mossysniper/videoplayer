@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+
+
+    <channels>
+    <channels_info>
+      <title>BYMOSSY</title>
+      <genre>GENERO</genre>
+      <description>DESCRIPCION</description>
+      <thumbnail>https://www.imageshost.eu/images/2015/07/07/M.jpg</thumbnail>
+      <fanart>http://wallpaperswa.com/thumbnails/detail/20120917/music%20other%20desktopnexus%20com%201600x900%20wallpaper_wallpaperswa.com_31.jpg</fanart>
+      <date>2016</date>
+      <credits>mossy</credits>
+    </channels_info>
+    
+    <channel>
+     <name>[COLOR lime]Deportes[/COLOR]</name>
+     <info>Deportes</info>
+     <thumbnail>https://www.imageshost.eu/images/2015/07/07/M.jpg</thumbnail>
+     <fanart>http://www.movistar.com.pe/documents/10182/34725/Bg+plan+Vuela/7a03ac1d-3d10-4c1c-adf8-ef183794b921?t=1422486897512</fanart>
+     
+     <item>
+	<title>[COLOR red]--- Canal+ Liga  ---[/COLOR]</title>
+	<link>http://iptv-supplier.com:8000/live/elm/elm/386.ts</link>
+    <thumbnail>http://srv00.epimg.net/programacion-tv/iconos/canales/cpliga.pngZ</thumbnail>
+    </item>
+    
+        </channel>
+	</channels>
